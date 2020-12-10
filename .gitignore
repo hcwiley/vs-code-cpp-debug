@@ -1,0 +1,8 @@
+# ignore the build dir
+build/
+
+# ignore hidden files, compiled binaries, and other randos
+.*
+*.o
+*.so
+
